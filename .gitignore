@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # auto created files
+.DS_Store # mac
 desktop.ini # windows
 
 # Distribution / packaging
